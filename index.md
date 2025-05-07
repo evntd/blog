@@ -7,8 +7,8 @@ hero:
   text: "Supporting your journey in building better systems"
   tagline: "Model, build, and scale event-driven systems with practical guides on Event Modeling, Event Sourcing, and tooling."
   image:
-    light: /public/images/logo-transparent-black.png
-    dark: /public/images/logo-transparent-white.png
+    light: /images/logo-transparent-black.png
+    dark: /images/logo-transparent-white.png
     alt: Evntd
   actions:
     - theme: brand
