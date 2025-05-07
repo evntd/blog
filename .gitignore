@@ -1,0 +1,6 @@
+# The singularity
+node_modules/
+
+# Vitepress build
+.vitepress/cache
+.vitepress/dist
