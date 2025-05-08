@@ -12,7 +12,13 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: "Event Modeling",
+        text: "Evntd",
+        items: [
+          { text: "About", link: "/about" }
+        ]
+      },
+      {
+        text: "Building Blocks",
         items: [
           { text: "Events", link: "/events" },
           { text: "Commands", link: "/commands" },

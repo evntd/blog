@@ -10,11 +10,11 @@ We owe it to the industry and to ourselves to hold a higher standard. Project de
 
 ## Why Event Modeling?
 
-Event modeling is a technology-agnostic approach to system design. It's highly collaborative and results in a detailed, visual plan for achieving desired outcomes based on information completeness. Having a plan reduces ambiguity and risk. Events in the model form a **shared language**, enabling clear communication between all parties involved. Its lightweight notation makes Event Modeling easy to teach.
+Event modeling is a technology-agnostic approach to information architecture. It's highly collaborative and results in a detailed, visual plan for achieving desired outcomes based on information completeness. Having a plan reduces ambiguity and risk. Events in the model form a **shared language**, enabling clear communication between all parties involved. Its lightweight notation makes Event Modeling simple to learn.
 
-There is no need to get bogged down in technical details at the outset of a project, wait until the [last responsible moment](https://blog.codinghorror.com/the-last-responsible-moment/). Non-technical stakeholders don't need or want to hear jargon, they want to solve business problems and see meaningful outcomes. 
+There is no need to get bogged down in technical details at the outset of a project, it's best to wait until the [last responsible moment](https://blog.codinghorror.com/the-last-responsible-moment/) before making these decisions. Additionally, most non-technical stakeholders don't need or want to hear technical jargon, they want to solve business problems and see meaningful outcomes. 
 
-Yes, technical decisions matter, and teams should make the best ones they can within their constraints. But that's the sausage-making, the part that can (and should) stay within the team. I don't know how a car works under the hood, and I don't need a salesperson to explain combustion engines to make a buying decision. I want the capabilities: a comfortable ride from point A to B, and a decent stereo.
+Yes, technical decisions matter, and teams should make the best ones they can within their constraints. But that is the sausage-making, the part that can (and should) stay within the technical teams. I don't know how a car works under the hood, and I don't need a salesperson to explain combustion engines to make a buying decision. I want the capabilities: a comfortable ride from point A to B, and a decent stereo.
 
 ## Why Event Sourcing?
 
