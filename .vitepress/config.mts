@@ -14,7 +14,8 @@ export default defineConfig({
       {
         text: "Evntd",
         items: [
-          { text: "About", link: "/about" }
+          { text: "About", link: "/about" },
+          { text: "Book", link: "/books/understanding-eventsourcing" }
         ]
       },
       {
@@ -24,6 +25,12 @@ export default defineConfig({
           { text: "Commands", link: "/commands" },
           { text: "Models", link: "/models" },
           { text: "Interfaces", link: "/interfaces" }
+        ]
+      },
+      {
+        text: "Event Stores",
+        items: [
+          { text: "Kurrent", link: "/kurrent" }
         ]
       }
     ],
