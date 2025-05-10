@@ -2,7 +2,7 @@
 
 ### The building blocks of time-aware, intention-revealing systems.
 
-Events are more than technical artifacts, they represent real-world facts with a system. Understanding them is key to designing resilient, auditable, and scalable information architectures using Event Modeling and Event Sourcing. This article explores the nature of events and how to work with them effectively.
+Events are more than technical artifacts, they represent real-world facts with a system. Understanding them is key to designing resilient, auditable, and scalable information architectures using Event Modeling and Event Sourcing. This article explores the nature of events in Event Modeling and Event Sourcing.
 
 ## What are Events?
 
@@ -54,7 +54,7 @@ Events are not just technical constructs. They are collaborative modeling artifa
 >
 > The color orange was popularized by [Alberto Brandolini](https://www.linkedin.com/in/brando/) in Event Storming to represent domain events. The bright color natually draws attention and helps distinguish events from other elements.
 
-When modeling digitally using tools like [Miro](https://miro.com/), [Mural](https://www.mural.co/), or [Draw.io](https://draw.io), orange is easily available. However, when modeling in-person, orange sticky notes can be hard to find in bulk, possibly because Alberto has bought them all, causing a global shortage. In those cases, yellow is often used as a practical substitute. Just make sure everyone knows what it represents. I personally prefer to use gold, as it's a hybrid of yellow and orange, and emphasizes their importance.
+When modeling digitally using tools like [Miro](https://miro.com/), [Mural](https://www.mural.co/), or [Draw.io](https://draw.io), orange is easily available. However, when modeling in-person, orange sticky notes can be hard to find in bulk, possibly because Alberto has bought them all, causing a global shortage. In those cases, yellow is often used as a practical substitute. Just make sure everyone knows what it represents. I personally prefer to use gold, as it's a hybrid of yellow and orange, and emphasizes their importance...after all, if data is the new gold, then events are the gold nuggets that make it valuable.
 
 ![Event Sticky Notes](./event-modeling-event-rep.jpg)
 
